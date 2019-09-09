@@ -13,7 +13,7 @@ The internal architecture of LSTM is look like:
 
 The dataset used in this project is Tesla stocks history (From 2018-03-06 - To 2019-03-06). 
 
-I have downloaded this dataset from <a href ="https://www.nasdaq.com">NASDAQ</a>,  the *csv* file is present inside the data folder. 
+I have downloaded this dataset from <a href ="https://www.nasdaq.com">NASDAQ</a>,  the *csv* file is present inside the **data** folder. 
 
 Name of the csv file is **tsla.csv**.
 
@@ -41,7 +41,7 @@ The architecture of our model is like:
   ### 1.  Perform preprocessing of data
   
         
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this phase we apply Min-Max scaling to avoid scale variations of features.It makes all the data points lies between 0 and 1.
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this phase we apply Min-Max scaling to avoid scale variations of features.It makes all the data                                      points lies between 0 and 1.
         
    ![preprocess](model/Preprocessing.png)
        
