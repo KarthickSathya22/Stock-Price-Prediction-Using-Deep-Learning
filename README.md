@@ -81,7 +81,7 @@ The architecture of our model is like:
         
 
 
-## Screeshots
+## Screenshots
 
 
   #### 1. Actual Open Vs Predicted Open
