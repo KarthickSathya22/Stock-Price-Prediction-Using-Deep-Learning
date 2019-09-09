@@ -146,5 +146,5 @@ or
 
 ## For more details
 
-Please visit my post on medium <a href="https://medium.com/@karthickprogrammer22/stock-price-prediction-using-deep-learning-28f762981896">Stock Price Prediction Using Deep Learning</a>
+Please visit my post on Medium <a href="https://medium.com/@karthickprogrammer22/stock-price-prediction-using-deep-learning-28f762981896">Stock Price Prediction Using Deep Learning</a>
 
